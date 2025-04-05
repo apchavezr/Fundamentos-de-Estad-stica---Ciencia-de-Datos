@@ -1,0 +1,201 @@
+id,edad,sexo,grupo_sanguineo,nivel_socioeconomico,peso_kg,vacunado_covid,frecuencia_visita_medico,departamento
+1,51,Femenino,A,Bajo,73.5,Sí,3,Cundinamarca
+2,14,Masculino,B,Bajo,51.5,No,2,Santander
+3,71,Masculino,AB,Bajo,46.6,Sí,0,Valle del Cauca
+4,60,Masculino,O,Medio,80.3,Sí,1,Cundinamarca
+5,20,Masculino,A,Medio,69.0,Sí,2,Santander
+6,82,Femenino,A,Bajo,56.0,Sí,5,Cundinamarca
+7,86,Masculino,O,Bajo,83.6,Sí,2,Valle del Cauca
+8,74,Masculino,A,Medio,66.4,No,3,Antioquia
+9,74,Masculino,A,Medio,79.2,No,2,Cundinamarca
+10,87,Femenino,B,Alto,65.8,Sí,2,Valle del Cauca
+11,23,Femenino,A,Medio,89.7,Sí,5,Santander
+12,2,Femenino,AB,Bajo,86.1,No,4,Cundinamarca
+13,21,Femenino,AB,Bajo,62.0,Sí,2,Cundinamarca
+14,52,Masculino,O,Medio,76.7,Sí,0,Santander
+15,1,Masculino,A,Bajo,72.7,Sí,3,Antioquia
+16,87,Femenino,O,Medio,81.4,Sí,2,Santander
+17,29,Masculino,AB,Alto,53.4,Sí,3,Cundinamarca
+18,37,Masculino,A,Medio,73.2,Sí,1,Santander
+19,1,Masculino,A,Bajo,77.7,No,1,Valle del Cauca
+20,63,Femenino,O,Medio,43.9,No,5,Santander
+21,59,Femenino,AB,Bajo,50.8,Sí,3,Cundinamarca
+22,20,Masculino,A,Medio,40.5,Sí,4,Santander
+23,32,Femenino,O,Alto,61.8,No,2,Antioquia
+24,75,Femenino,AB,Bajo,73.6,Sí,1,Santander
+25,57,Femenino,O,Alto,83.0,Sí,1,Antioquia
+26,21,Femenino,B,Alto,65.9,No,0,Valle del Cauca
+27,88,Femenino,A,Bajo,84.5,No,0,Antioquia
+28,48,Masculino,B,Bajo,48.4,Sí,3,Santander
+29,58,Femenino,AB,Bajo,44.6,Sí,3,Cundinamarca
+30,41,Masculino,B,Bajo,64.3,Sí,4,Antioquia
+31,59,Masculino,B,Bajo,69.6,Sí,2,Valle del Cauca
+32,79,Femenino,AB,Medio,64.6,Sí,4,Antioquia
+33,14,Masculino,O,Bajo,40.2,Sí,1,Antioquia
+34,61,Masculino,B,Bajo,63.9,Sí,2,Antioquia
+35,61,Masculino,O,Alto,49.3,Sí,0,Valle del Cauca
+36,46,Femenino,B,Bajo,73.0,Sí,5,Santander
+37,61,Femenino,O,Alto,69.4,Sí,2,Antioquia
+38,50,Masculino,AB,Bajo,53.7,No,2,Antioquia
+39,54,Femenino,B,Bajo,58.8,Sí,3,Cundinamarca
+40,63,Femenino,AB,Medio,52.3,Sí,2,Valle del Cauca
+41,2,Femenino,B,Medio,64.2,Sí,6,Antioquia
+42,50,Femenino,AB,Alto,76.5,Sí,2,Valle del Cauca
+43,6,Masculino,AB,Medio,53.2,Sí,2,Antioquia
+44,20,Masculino,B,Alto,71.0,Sí,2,Santander
+45,72,Femenino,B,Bajo,58.6,Sí,3,Santander
+46,38,Femenino,B,Bajo,55.5,Sí,3,Antioquia
+47,17,Masculino,A,Medio,63.7,Sí,3,Santander
+48,3,Masculino,O,Alto,52.6,Sí,6,Antioquia
+49,88,Femenino,A,Alto,58.4,No,1,Santander
+50,59,Masculino,A,Bajo,50.6,Sí,2,Cundinamarca
+51,13,Femenino,AB,Bajo,88.6,Sí,1,Cundinamarca
+52,8,Femenino,B,Medio,65.4,Sí,2,Cundinamarca
+53,89,Masculino,O,Bajo,56.6,Sí,3,Valle del Cauca
+54,52,Masculino,AB,Alto,67.6,Sí,3,Valle del Cauca
+55,1,Femenino,A,Alto,63.7,Sí,2,Cundinamarca
+56,83,Femenino,B,Bajo,62.3,No,1,Valle del Cauca
+57,59,Masculino,AB,Medio,72.4,Sí,4,Santander
+58,70,Femenino,B,Medio,74.1,Sí,1,Antioquia
+59,43,Masculino,AB,Bajo,58.6,Sí,2,Antioquia
+60,7,Femenino,B,Alto,58.1,No,2,Antioquia
+61,46,Masculino,A,Medio,61.7,Sí,2,Cundinamarca
+62,34,Masculino,O,Alto,37.4,Sí,0,Valle del Cauca
+63,77,Masculino,A,Bajo,46.8,Sí,4,Santander
+64,80,Femenino,O,Alto,81.4,Sí,1,Santander
+65,35,Femenino,B,Bajo,84.7,Sí,0,Cundinamarca
+66,49,Masculino,AB,Bajo,62.0,No,2,Santander
+67,3,Femenino,A,Alto,71.9,Sí,2,Santander
+68,1,Masculino,O,Bajo,68.7,Sí,3,Santander
+69,5,Masculino,A,Bajo,101.9,Sí,2,Santander
+70,53,Femenino,O,Alto,78.4,Sí,0,Valle del Cauca
+71,3,Femenino,A,Alto,63.5,Sí,2,Santander
+72,53,Masculino,O,Medio,53.5,Sí,2,Antioquia
+73,62,Femenino,O,Medio,45.7,Sí,3,Cundinamarca
+74,17,Femenino,B,Bajo,67.4,Sí,2,Valle del Cauca
+75,89,Masculino,O,Bajo,55.9,Sí,2,Santander
+76,43,Masculino,B,Bajo,47.9,Sí,0,Valle del Cauca
+77,33,Femenino,O,Medio,57.2,Sí,3,Santander
+78,73,Masculino,AB,Medio,52.0,Sí,3,Antioquia
+79,61,Masculino,AB,Medio,85.2,Sí,4,Cundinamarca
+80,13,Femenino,AB,Medio,75.6,Sí,0,Santander
+81,47,Masculino,O,Bajo,64.9,No,4,Santander
+82,14,Masculino,B,Bajo,82.8,No,0,Santander
+83,71,Femenino,B,Bajo,65.9,Sí,2,Santander
+84,77,Femenino,O,Medio,54.7,Sí,1,Cundinamarca
+85,86,Masculino,AB,Bajo,83.3,Sí,2,Cundinamarca
+86,61,Masculino,AB,Alto,71.5,Sí,2,Antioquia
+87,39,Femenino,B,Bajo,52.6,Sí,0,Cundinamarca
+88,84,Femenino,AB,Bajo,62.7,Sí,2,Santander
+89,79,Femenino,A,Bajo,54.5,Sí,4,Antioquia
+90,81,Femenino,B,Medio,48.4,Sí,1,Antioquia
+91,52,Masculino,AB,Medio,76.1,Sí,2,Antioquia
+92,23,Femenino,B,Bajo,87.9,Sí,3,Santander
+93,25,Femenino,A,Bajo,48.2,Sí,0,Valle del Cauca
+94,88,Masculino,B,Medio,71.8,Sí,2,Santander
+95,59,Femenino,B,Bajo,57.2,Sí,1,Cundinamarca
+96,40,Masculino,B,Alto,59.2,Sí,0,Cundinamarca
+97,28,Femenino,B,Medio,57.9,Sí,1,Santander
+98,14,Femenino,A,Bajo,54.6,Sí,3,Santander
+99,44,Femenino,O,Bajo,65.6,Sí,1,Antioquia
+100,64,Masculino,B,Alto,55.0,Sí,2,Santander
+101,88,Masculino,B,Bajo,68.2,Sí,1,Antioquia
+102,70,Femenino,AB,Bajo,64.4,Sí,5,Cundinamarca
+103,8,Masculino,B,Alto,62.1,Sí,1,Antioquia
+104,87,Masculino,AB,Alto,54.1,No,4,Santander
+105,0,Masculino,O,Alto,58.1,Sí,2,Cundinamarca
+106,7,Masculino,A,Medio,74.1,Sí,0,Valle del Cauca
+107,87,Masculino,A,Bajo,71.0,Sí,1,Antioquia
+108,62,Masculino,O,Bajo,53.3,Sí,3,Cundinamarca
+109,10,Femenino,A,Medio,66.2,Sí,2,Antioquia
+110,80,Femenino,O,Medio,74.0,No,3,Cundinamarca
+111,7,Masculino,O,Bajo,45.0,Sí,3,Cundinamarca
+112,34,Femenino,O,Alto,71.5,Sí,1,Antioquia
+113,34,Femenino,A,Bajo,57.0,Sí,0,Valle del Cauca
+114,32,Femenino,AB,Bajo,71.8,Sí,1,Cundinamarca
+115,4,Femenino,O,Bajo,55.8,Sí,4,Cundinamarca
+116,40,Masculino,B,Bajo,43.3,Sí,2,Cundinamarca
+117,27,Femenino,A,Bajo,45.5,Sí,4,Valle del Cauca
+118,6,Femenino,O,Bajo,65.6,No,3,Valle del Cauca
+119,72,Masculino,O,Bajo,68.1,Sí,2,Santander
+120,71,Masculino,B,Medio,54.1,Sí,3,Antioquia
+121,11,Femenino,AB,Medio,72.7,Sí,2,Valle del Cauca
+122,33,Femenino,AB,Medio,45.1,Sí,2,Antioquia
+123,32,Femenino,AB,Alto,64.2,Sí,2,Santander
+124,47,Femenino,O,Bajo,50.5,Sí,3,Antioquia
+125,22,Femenino,O,Bajo,57.2,Sí,1,Valle del Cauca
+126,61,Femenino,O,Alto,65.6,Sí,2,Antioquia
+127,87,Masculino,A,Bajo,54.7,Sí,3,Valle del Cauca
+128,36,Femenino,B,Alto,60.4,Sí,2,Antioquia
+129,43,Femenino,O,Bajo,77.1,Sí,0,Valle del Cauca
+130,85,Masculino,B,Alto,58.1,No,1,Valle del Cauca
+131,34,Masculino,B,Bajo,75.0,Sí,2,Antioquia
+132,64,Masculino,AB,Alto,51.4,Sí,2,Santander
+133,46,Masculino,A,Medio,71.4,No,1,Cundinamarca
+134,77,Femenino,O,Alto,82.3,Sí,0,Santander
+135,2,Femenino,AB,Bajo,35.3,No,5,Antioquia
+136,0,Femenino,AB,Medio,55.4,Sí,2,Santander
+137,4,Femenino,O,Alto,71.9,Sí,1,Valle del Cauca
+138,89,Femenino,B,Medio,62.6,Sí,2,Cundinamarca
+139,13,Femenino,AB,Medio,69.5,Sí,0,Antioquia
+140,26,Masculino,B,Medio,57.8,Sí,2,Antioquia
+141,8,Femenino,A,Bajo,66.0,Sí,1,Antioquia
+142,78,Masculino,B,Medio,63.1,Sí,3,Cundinamarca
+143,14,Masculino,A,Medio,79.0,Sí,4,Valle del Cauca
+144,89,Femenino,B,Alto,68.1,Sí,2,Antioquia
+145,41,Masculino,AB,Bajo,69.1,No,0,Santander
+146,76,Femenino,AB,Bajo,60.1,Sí,2,Antioquia
+147,50,Masculino,A,Alto,59.1,Sí,2,Antioquia
+148,62,Femenino,O,Alto,59.8,Sí,3,Antioquia
+149,51,Masculino,A,Bajo,69.7,Sí,5,Antioquia
+150,3,Femenino,A,Medio,59.9,No,2,Valle del Cauca
+151,22,Femenino,B,Bajo,68.5,Sí,3,Santander
+152,14,Femenino,B,Bajo,89.9,Sí,3,Valle del Cauca
+153,42,Femenino,A,Bajo,75.5,Sí,2,Santander
+154,28,Femenino,AB,Bajo,61.1,Sí,5,Antioquia
+155,35,Masculino,B,Medio,79.4,Sí,2,Cundinamarca
+156,12,Masculino,O,Bajo,60.1,Sí,5,Valle del Cauca
+157,31,Masculino,B,Alto,40.5,Sí,0,Cundinamarca
+158,70,Femenino,B,Alto,52.9,Sí,1,Valle del Cauca
+159,58,Masculino,O,Medio,42.6,Sí,1,Antioquia
+160,85,Femenino,A,Medio,60.8,No,2,Valle del Cauca
+161,27,Femenino,O,Bajo,65.2,No,1,Antioquia
+162,65,Masculino,A,Alto,85.1,Sí,1,Valle del Cauca
+163,41,Masculino,A,Medio,68.9,Sí,0,Antioquia
+164,44,Femenino,A,Bajo,62.4,Sí,3,Antioquia
+165,61,Masculino,O,Alto,75.0,Sí,3,Santander
+166,56,Femenino,A,Alto,38.5,No,0,Antioquia
+167,5,Femenino,AB,Alto,67.8,Sí,1,Santander
+168,27,Femenino,O,Medio,74.3,Sí,2,Antioquia
+169,27,Femenino,AB,Medio,47.3,Sí,5,Cundinamarca
+170,43,Femenino,A,Bajo,78.7,Sí,1,Antioquia
+171,83,Masculino,B,Alto,69.1,Sí,3,Cundinamarca
+172,29,Masculino,A,Alto,60.0,Sí,0,Cundinamarca
+173,61,Femenino,AB,Bajo,72.6,Sí,2,Antioquia
+174,74,Femenino,AB,Bajo,92.2,Sí,1,Cundinamarca
+175,88,Masculino,O,Bajo,67.2,Sí,1,Santander
+176,61,Masculino,B,Alto,68.0,Sí,2,Valle del Cauca
+177,0,Femenino,O,Alto,59.5,Sí,2,Antioquia
+178,26,Masculino,AB,Bajo,54.8,Sí,1,Cundinamarca
+179,61,Femenino,A,Medio,75.0,Sí,1,Antioquia
+180,76,Masculino,B,Bajo,54.7,Sí,1,Santander
+181,2,Femenino,A,Alto,65.9,Sí,1,Antioquia
+182,69,Masculino,A,Alto,59.3,Sí,3,Antioquia
+183,71,Femenino,B,Alto,70.7,Sí,2,Cundinamarca
+184,26,Masculino,O,Bajo,69.0,No,5,Santander
+185,8,Masculino,A,Bajo,77.5,Sí,1,Valle del Cauca
+186,61,Femenino,AB,Bajo,58.9,Sí,3,Valle del Cauca
+187,36,Masculino,A,Bajo,61.8,Sí,2,Cundinamarca
+188,50,Femenino,B,Alto,53.3,Sí,3,Antioquia
+189,43,Masculino,B,Alto,59.7,Sí,3,Cundinamarca
+190,23,Femenino,B,Alto,69.5,Sí,3,Cundinamarca
+191,78,Masculino,O,Alto,74.1,Sí,0,Cundinamarca
+192,58,Femenino,A,Medio,53.9,Sí,3,Antioquia
+193,31,Masculino,O,Medio,75.4,Sí,2,Santander
+194,87,Femenino,O,Alto,81.3,Sí,1,Cundinamarca
+195,51,Masculino,B,Alto,70.0,Sí,2,Antioquia
+196,61,Femenino,B,Bajo,87.5,Sí,3,Santander
+197,57,Femenino,O,Bajo,55.7,Sí,0,Cundinamarca
+198,51,Femenino,A,Bajo,50.1,Sí,2,Valle del Cauca
+199,11,Masculino,AB,Alto,43.7,Sí,0,Santander
+200,38,Femenino,O,Medio,83.0,Sí,0,Cundinamarca
